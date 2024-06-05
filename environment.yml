@@ -1,0 +1,23 @@
+name: am
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10.2
+  - pip==22.0.3
+  - jupyter
+  - pip:  
+    - audio-metadata
+    - fpdf2
+    - lxml
+    - matplotlib
+    - opencv-python
+    - PyQt5>=5.15.9
+    - python-docx
+    - stegano>=0.10.2
+    - scikit-learn
+    - moviepy
+    - pymediainfo
+    - aiohttp
+    - python-socketio
+    - tinytag
