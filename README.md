@@ -1,4 +1,4 @@
-#SecureAuth-RecognitionSystem
+#SecureAuth-RecognitionSystem#
 ##SecureAuth is an innovative security application that utilizes facial and voice recognition for user authentication. It allows users to register with their personal information, record a video of their face, and an audio file of their voice, and then authenticate using these recordings. This system provides a high level of security, ensuring that only authorized users can access the server.
 
 ##Features
