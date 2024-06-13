@@ -42,3 +42,6 @@ I use Google Speech Recognition to convert the recorded audio into text, which i
 
 # License
 This project is protected by copyright and is not available under any public license. All rights are reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, without prior written permission from the author.
+
+© 2024 Vadana Ioan-Grigore. All rights reserved.
+
